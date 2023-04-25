@@ -5,4 +5,8 @@ Segundo trabalho de POO / Questões resolvidas
 
 | Questões | Enunciado |
 | ------------- | -------------- |
-| `16`  | Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído. Para alterar o preço o produto deve preencher pelo menos um dos requisitos a seguir. Faça um programa que receba o preço atual e a venda mensal média do produto, calcule e mostre o novo preço. <br> <br>  Venda média mensal -------------- Preço atual ---------------- % De Aumento ------- % De Diminuição <br> < 500 ------------------------------ < R$ 30,00 ------------------------ 10  <br> >= 500 e < 1.200 -------- >= R$ 30,00 e < R$ 80,00  ----------------- 15 <br>  >= 1.200 ------------------------- >= R$ 80,00  -------------------------------------------------  20
+| `03`  | Faça um programa que receba dois números e mostre o maior.
+| `05`  | Faça um programa que receba três números obrigatóriamente em ordem crescente e um quarto número que não siga esta regra. Mostre, em seguida, os quatro números em ordem decrescente.
+| `06`  | Faça um programa que receba um número inteiro e verifique se esse número é par ou ímpar.
+| `11`  | Faça um programa que receba a hora de início de um jogo e a hora final do jogo. Calcule e mostre a duração do jogo sabendo-se que o tempo máximo de duração do jogo é 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
+| `14`  | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e auxílio-escola.
